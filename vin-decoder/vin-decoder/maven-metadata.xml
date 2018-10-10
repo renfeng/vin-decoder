@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>vin-decoder</groupId>
+  <artifactId>vin-decoder</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20181010031451</lastUpdated>
+  </versioning>
+</metadata>
